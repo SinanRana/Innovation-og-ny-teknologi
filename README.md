@@ -24,4 +24,4 @@ cd obligatorisk-opg-1
 expo start
 ```
 
-4. Chose where you want to run it and you're good to go!
+4. Choose where you want to run it and you're good to go!
