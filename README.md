@@ -25,7 +25,3 @@ expo start
 ```
 
 4. Chose where you want to run it and you're good to go!
-
-```bash
-npx sequelize-cli db:migrate
-```
