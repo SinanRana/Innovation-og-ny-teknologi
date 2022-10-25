@@ -2,6 +2,8 @@
 
 This README.md file contains the documentation for running the developed app.
 
+NOTE: The branch 'master' includes the code for 'Obligatorisk opgave 1' and the branch 'obligatorisk-opgave-2' is self-explanatory.
+
 ## Installation
 
 In order to run the application, you must run the following commands.
